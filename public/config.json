@@ -1,8 +1,8 @@
 {
     "workflowApiVersion": "1.1",
     "metaData": {
-        "icon": "images/DTTDigital.png",
-        "iconSmall": "images/DTTDigitalSmall.png",
+        "icon": "https://huangben.herokuapp.com/images/DTTDigital.png",
+        "iconSmall": "https://huangben.herokuapp.com/images/DTTDigitalSmall.png",
         "category": "message"
     },
     "type": "REST",
