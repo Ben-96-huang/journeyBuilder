@@ -1,8 +1,8 @@
 {
     "workflowApiVersion": "1.1",
     "metaData": {
-        "icon": "https://huangben.herokuapp.com/images/DTTDigital.png",
-        "iconSmall": "https://huangben.herokuapp.com/images/DTTDigitalSmall.png",
+        "icon": "images/DTTDigital.png",
+        "iconSmall": "images/DTTDigitalSmall.png",
         "category": "message"
     },
     "type": "REST",
@@ -63,6 +63,9 @@
             "height": 400,
             "width": 1000,
           "fullscreen": false
+        },
+        "runningHover":{
+          "url": "onHoverPage.html"
         }
     },
     "schema": {
